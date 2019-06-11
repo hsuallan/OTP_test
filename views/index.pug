@@ -1,0 +1,8 @@
+﻿extends layout
+
+block content
+  h1= title
+  img(src = code)
+  form(method="post" action="/test")
+        | 輸入otp：
+        input(name="pw")
