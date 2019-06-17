@@ -1,7 +1,7 @@
 ﻿# opt
  # Getting Started
 ```
-git clonehttps://github.com/hsuallan/OTP_test.git
+git clone https://github.com/hsuallan/OTP_test.git
 cd OTP_test
 npm install
 npm start
